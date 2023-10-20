@@ -84,6 +84,15 @@ const titles = [
   "Little Women",
 ];
 
+books.forEach((books) =>
+console.log(books.authorFirst, books.authorLast, books.name)
+);
+books.forEach((books) =>
+console.log(books.publishDate, books.name)
+);
+WP.forEach((WP.authorFirst, WP.authorLast,WP.na) );
+
+
 //Array of authors and the book they wrote
 //"--- wrote --- in ---"
 
