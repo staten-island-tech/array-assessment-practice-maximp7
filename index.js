@@ -126,20 +126,3 @@ console.log("Books that include the genre historical:");
 console.log(historicalBooks);
 
 
-//Array of authors and the book they wrote
-//"--- wrote --- in ---"
-
-//Sort books from oldest to most recent
-
-//sort books alphabetically
-
-//Find who wrote War and Peace
-
-//how many books were written before 1900?
-
-//was there at least one book published within the last 100 years?
-
-//was every book published within the last 100 years?
-
-//print a list of books that "includes" the genre historical
-
